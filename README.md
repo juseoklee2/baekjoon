@@ -1,3 +1,3 @@
 # baekjoon
-### This is python.
-print(hello junhee)
+### Uploading baekjoon question solving skills
+
