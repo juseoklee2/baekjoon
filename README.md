@@ -1,3 +1,3 @@
 # baekjoon
-### Uploading baekjoon question solving skills
+### Uploading baekjoon problem solving skills
 
