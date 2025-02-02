@@ -1,2 +1,3 @@
 # baekjoon
-### hi hello
+### This is python.
+print(hello junhee)
